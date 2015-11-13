@@ -1,0 +1,7 @@
+[global]
+10.1.0.129=domain1
+developip.com=domain1
+
+[domain1]
+DomainRoot=/var/www/keystonerc/
+DefaultPath=index.html
